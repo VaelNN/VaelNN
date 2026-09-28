@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.svg" alt="VaelNN — приложения, инфраструктура, приватность" width="100%">
+</p>
 
-<!--
-**VaelNN/VaelNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет, я VaelNN 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Создаю приложения для Windows и Android.<br>
+  Сейчас развиваю <a href="https://github.com/VaelNN/HateVPN"><strong>HateVPN</strong></a> — личный VPN-клиент для подписок и собственных серверов.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ◈ Главный проект
+
+**[HateVPN](https://github.com/VaelNN/HateVPN)** — клиент для Windows и Android с поддержкой подписок, собственного VPS и приглашений для друзей.
+
+| Windows | Android | Свой сервер |
+| :--- | :--- | :--- |
+| Приложение и установщик; работа в трее, автозапуск и диагностика | Фоновая VPN-служба и управление из уведомления | Импорт конфигурации и приглашения с отдельным профилем |
+
+[Исходный код и документация →](https://github.com/VaelNN/HateVPN) · [Релизы →](https://github.com/VaelNN/HateVPN/releases)
+
+### ◈ Технологии проекта
+
+`C#` · `.NET` · `WPF` · `Flutter` · `Dart` · `Kotlin`
+
+### ◈ Сейчас в работе
+
+Развиваю HateVPN для небольшой группы пользователей: улучшаю клиенты, подключение к собственному серверу и повседневный опыт использования.
+
+<p align="center">
+  <sub>Есть идея или нашли проблему? <a href="https://github.com/VaelNN/HateVPN/issues">Откройте issue в HateVPN</a>.</sub>
+</p>
