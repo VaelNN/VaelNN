@@ -1,21 +1,11 @@
 <p align="center">
-  <img src="./banner-v2.png" alt="Космический баннер VaelNN" width="100%">
+  <img src="./arima-banner.png" alt="Арима Кишо на фоне дождливого Токио" width="100%">
 </p>
 
 <br>
 
-<h1 align="center">VaelNN ✦</h1>
+<h1 align="center">VaelNN</h1>
 
 <p align="center">
-  <strong>Место для идей, экспериментов и красивых деталей.</strong>
-</p>
-
-<p align="center">
-  Создаю в своём ритме. Ищу интересное в привычном.
-</p>
-
-<br>
-
-<p align="center">
-  <sub>✧ &nbsp; ИДЕИ &nbsp; · &nbsp; ЭКСПЕРИМЕНТЫ &nbsp; · &nbsp; ДЕТАЛИ &nbsp; ✧</sub>
+  <sub>東京喰種 · 有馬貴将</sub>
 </p>
