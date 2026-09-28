@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">VAELNN</title>
+  <desc id="desc">Приложения, инфраструктура, приватность</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#181B3B"/>
+      <stop offset="1" stop-color="#0B1830"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#54D7E8"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle cx="1040" cy="145" r="240" fill="#7C3AED" opacity=".09"/>
+    <circle cx="1000" cy="135" r="165" fill="none" stroke="#8B5CF6" stroke-opacity=".24" stroke-width="1.5"/>
+    <circle cx="1000" cy="135" r="115" fill="none" stroke="#54D7E8" stroke-opacity=".28" stroke-width="1.5"/>
+    <circle cx="1000" cy="135" r="65" fill="none" stroke="#A7F3D0" stroke-opacity=".33" stroke-width="1.5"/>
+    <path d="M900 135h200M1000 35v200" stroke="#FFFFFF" stroke-opacity=".11"/>
+    <circle cx="1000" cy="135" r="7" fill="#A7F3D0"/>
+    <circle cx="1080" cy="53" r="4" fill="#54D7E8"/>
+    <circle cx="902" cy="177" r="3" fill="#8B5CF6"/>
+    <rect x="62" y="66" width="49" height="4" rx="2" fill="url(#accent)"/>
+    <text x="62" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="8" fill="#F7FAFF">VAELNN</text>
+    <text x="66" y="217" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2.3" fill="#B7C7DD">ПРИЛОЖЕНИЯ · ИНФРАСТРУКТУРА · ПРИВАТНОСТЬ</text>
+    <path d="M62 258h585" stroke="url(#accent)" stroke-opacity=".55" stroke-width="1.5"/>
+    <text x="66" y="285" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#74DDE6">WINDOWS / ANDROID</text>
+  </g>
+</svg>
