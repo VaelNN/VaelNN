@@ -7,5 +7,5 @@
 <h1 align="center">VaelNN</h1>
 
 <p align="center">
-  東京喰種 · 有馬貴将
+  私はグールです笑
 </p>
